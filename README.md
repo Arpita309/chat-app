@@ -8,8 +8,8 @@ Features like notifying others when someone is typing , store the messages in of
 
 
 #### ScreenShots :
-<img src="https://github.com/Arpita309/portfolio/blob/master/public/images/portfolio/RealtimeChat.png">
+<img  width='500px' height='200px' src="https://github.com/Arpita309/portfolio/blob/master/public/images/portfolio/RealtimeChat.png">
 
 
 
-<img src="https://github.com/Arpita309/portfolio/blob/master/public/images/portfolio/Chat%20App.png">
+<img width='500px' height='200px' src="https://github.com/Arpita309/portfolio/blob/master/public/images/portfolio/Chat%20App.png">
